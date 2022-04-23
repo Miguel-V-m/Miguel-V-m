@@ -1,6 +1,6 @@
 
 -  👋 Olá, meu nome é Miguel Alfredo Vera Moreno
-- 👀 Tenho interesse em atuar na área de Análise de dados.
+- 👀 Tenho interesse em atuar na área de ciência dos dados.
 - 🌱 Estou me aprofundando em Python, Mysql e Java
 - 🤔 Procuro por projetos em Análise de dados.
 - 📧 Email de contato - miguelfisik@gmail.com
